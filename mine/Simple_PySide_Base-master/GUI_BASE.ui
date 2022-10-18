@@ -1561,7 +1561,7 @@ QPushButton:pressed {
                    <string notr="true">background: transparent;</string>
                   </property>
                   <property name="currentIndex">
-                   <number>1</number>
+                   <number>0</number>
                   </property>
                   <widget class="QWidget" name="page_home">
                    <layout class="QVBoxLayout" name="verticalLayout_10">
@@ -1574,7 +1574,8 @@ QPushButton:pressed {
                        </font>
                       </property>
                       <property name="styleSheet">
-                       <string notr="true"/>
+                       <string notr="true">background-color: rgb(0, 170, 255);
+border-radius:20px;</string>
                       </property>
                       <property name="text">
                        <string>HOME</string>
@@ -2421,7 +2422,7 @@ QHeaderView::section:vertical
                           <bool>false</bool>
                          </property>
                          <attribute name="horizontalHeaderVisible">
-                          <bool>true</bool>
+                          <bool>false</bool>
                          </attribute>
                          <attribute name="horizontalHeaderCascadingSectionResizes">
                           <bool>true</bool>
