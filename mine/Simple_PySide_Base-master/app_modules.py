@@ -15,8 +15,8 @@
 ################################################################################
 
 # GUI FILE
-# from ui_main import Ui_MainWindow # for pyside2
-from ui_main_qt import Ui_MainWindow #for qt
+from ui_main import Ui_MainWindow # for pyside2
+# from ui_main_qt import Ui_MainWindow #for qt
 
 # IMPORT QSS CUSTOM
 from ui_styles import Style
