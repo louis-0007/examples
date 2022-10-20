@@ -16,7 +16,7 @@
 
 # GUI FILE
 # from ui_main import Ui_MainWindow # for pyside2
-from ui_main_copy import Ui_MainWindow # 테스트용
+from GUI_BASE_2210201003 import Ui_MainWindow # 테스트용
 # from ui_main_qt import Ui_MainWindow #for qt
 
 # IMPORT QSS CUSTOM
